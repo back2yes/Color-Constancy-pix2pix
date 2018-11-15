@@ -10,7 +10,8 @@ The work is based on applying of supervised image-to-image translation algorithm
 
 the MATLAB code `generate_tinted_images.m` allows to apply multi-illuimnant color cast on input images. Tint maps are randomized and are not coherent between frames.
 
-The GTAV Shadow Removal Dataset of 5,723 image pairs with and without shadows may be acessed by the [link]().
+The GTAV Shadow Removal Dataset of 5,723 image pairs with and without shadows may be acessed by the [link]().<br>
+*the link will be available soon; until that, please contact corresponding to get access to the dataset*
 
 ### Preview of GTAV Shadow Removal Dataset 
 
