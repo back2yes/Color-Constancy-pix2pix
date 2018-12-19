@@ -1,6 +1,6 @@
 # Conditional GANs for Multi-Illuminant Color Constancy: Revolution or Yet Another Approach?
 Supporting code to the paper <br>
-[O Sidorov. Conditional GANs for Multi-Illuminant Color Constancy: Revolution or Yet Another Approach?](https://arxiv.org/)
+[O Sidorov. Conditional GANs for Multi-Illuminant Color Constancy: Revolution or Yet Another Approach?](https://arxiv.org/abs/1811.06604)
 <br>
 
 ![image preview](https://github.com/acecreamu/Color-Constancy-pix2pix/blob/master/image.jpg)
